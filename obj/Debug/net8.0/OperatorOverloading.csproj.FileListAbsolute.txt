@@ -1,0 +1,15 @@
+/workspaces/OperatorOverloading/obj/Debug/net8.0/OperatorOverloading.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/OperatorOverloading/obj/Debug/net8.0/OperatorOverloading.AssemblyInfoInputs.cache
+/workspaces/OperatorOverloading/obj/Debug/net8.0/OperatorOverloading.AssemblyInfo.cs
+/workspaces/OperatorOverloading/obj/Debug/net8.0/OperatorOverloading.csproj.CoreCompileInputs.cache
+/workspaces/OperatorOverloading/obj/Debug/net8.0/OperatorOverloading.sourcelink.json
+/workspaces/OperatorOverloading/bin/Debug/net8.0/OperatorOverloading
+/workspaces/OperatorOverloading/bin/Debug/net8.0/OperatorOverloading.deps.json
+/workspaces/OperatorOverloading/bin/Debug/net8.0/OperatorOverloading.runtimeconfig.json
+/workspaces/OperatorOverloading/bin/Debug/net8.0/OperatorOverloading.dll
+/workspaces/OperatorOverloading/bin/Debug/net8.0/OperatorOverloading.pdb
+/workspaces/OperatorOverloading/obj/Debug/net8.0/OperatorOverloading.dll
+/workspaces/OperatorOverloading/obj/Debug/net8.0/refint/OperatorOverloading.dll
+/workspaces/OperatorOverloading/obj/Debug/net8.0/OperatorOverloading.pdb
+/workspaces/OperatorOverloading/obj/Debug/net8.0/OperatorOverloading.genruntimeconfig.cache
+/workspaces/OperatorOverloading/obj/Debug/net8.0/ref/OperatorOverloading.dll

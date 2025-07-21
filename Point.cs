@@ -25,13 +25,13 @@ namespace OperatorOverloading
         }
 
 
-        public static Point operator *(Point p, double scalar)
+        public static Point operator *(Point p, int scalar)
         {
             return new Point(p.X * scalar, p.Y * scalar);
 
         }
 
-        public static Point operator /(Point p , double scalar)
+        public static Point operator /(Point p , int scalar)
         {
             if(scalar==0) throw new DivideByZeroException("cannot divide by zero");
             return new Point(p.X/scalar,p.Y/scalar);
